@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&theme=react" alt="GitHub Stats">
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&count_private=true&theme=react" alt="Top Languages">
-    </div>
+            <div class="status1">
+                <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001at&theme=transparent&layout=compact"/>
+            </div>
+            <div class="status2">
+            <img alt="githubStats" class="status2" src="https://github-readme-stats.vercel.app/api?username=2001at&theme=transparent&show_icons=ture"/>
+            </div>
 </body>
 </html>
